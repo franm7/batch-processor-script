@@ -34,7 +34,7 @@ batch-delay-test/
 ### Setup
 ```bash
 # Clone and setup
-git clone <repo-url>
+git clone github.com/franm7/batch-processor-script
 cd batch-delay-test
 
 # Install dependencies
