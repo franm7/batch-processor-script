@@ -35,7 +35,7 @@ batch-delay-test/
 ```bash
 # Clone and setup
 git clone github.com/franm7/batch-processor-script
-cd batch-delay-test
+cd batch-processor-script
 
 # Install dependencies
 go mod tidy
